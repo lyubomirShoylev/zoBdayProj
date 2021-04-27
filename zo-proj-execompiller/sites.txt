@@ -1,0 +1,10 @@
+https://stackoverflow.com/questions/5458048/how-to-make-a-python-script-standalone-executable-to-run-without-any-dependency\
+https://stackoverflow.com/questions/12339671/how-to-compile-python-script-to-binary-executable
+https://stackoverflow.com/questions/12339671/how-to-compile-python-script-to-binary-executable
+
+https://docs.python.org/3/library/winsound.html
+
+https://gist.github.com/krin-san/ef6b8b1e501ad4a82902
+
+https://stackoverflow.com/questions/13423906/executing-an-keypress-event-while-playing-a-sound-in-pythontkinter
+
